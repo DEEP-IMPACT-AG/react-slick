@@ -1,6 +1,6 @@
 {
-  "name": "react-slick",
   "version": "0.15.4",
+  "name": "di-react-slick",
   "description": " React port of slick carousel",
   "main": "./lib",
   "files": [
@@ -14,11 +14,11 @@
     "test:watch": "jest --watch",
     "lint": "eslint src"
   },
-  "author": "Kiran Abburi",
+  "author": "Deep Impact AG",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akiran/react-slick"
+    "url": "https://github.com/DEEP-IMPACT-AG/react-slick"
   },
   "keywords": [
     "slick",
