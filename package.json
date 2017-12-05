@@ -85,7 +85,7 @@
       "./test-setup.js"
     ]
   },
-  "npmName": "react-slick",
+  "npmName": "di-react-slick",
   "npmFileMap": [
     {
       "basePath": "/dist/",
@@ -94,8 +94,5 @@
       ]
     }
   ],
-  "bugs": {
-    "url": "https://github.com/akiran/react-slick/issues"
-  },
-  "homepage": "https://github.com/akiran/react-slick"
+  "homepage": "https://github.com/DEEP-IMPACT-AG/react-slick"
 }
