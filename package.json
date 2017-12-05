@@ -1,5 +1,5 @@
 {
-  "version": "0.15.4",
+  "version": "0.15.5",
   "name": "di-react-slick",
   "description": " React port of slick carousel",
   "main": "./lib",
