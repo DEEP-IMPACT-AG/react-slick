@@ -3,6 +3,8 @@
 This is a fork for Deep Impact AG.
 The fork was made on the version 0.15.4 from react-slick.
 
+**This fork is archived. Spectra was able to use the original react-slick version `0.23.2`.**
+
 
 
 [![Join the chat at https://gitter.im/akiran/react-slick](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/akiran/react-slick?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
